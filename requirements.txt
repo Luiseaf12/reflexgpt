@@ -1,0 +1,6 @@
+reflex==0.6.7
+python-dotenv==1.0.0
+openai
+python-decouple
+
+psycopg2-binary
